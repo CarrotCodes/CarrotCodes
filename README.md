@@ -1,12 +1,12 @@
 **Hi there**, I'm Carrot 👋
 
 - 🚀 I make open-source projects, usually in Kotlin, to help people ship high quality software
+- 🥕 I write about software and streaming at [carrot.blog](https://www.carrot.blog)
 - 📺 I stream [on Twitch](https://www.twitch.tv/carrot)
-- 🥕 I write about open-source and streaming at [carrot.blog](https://www.carrot.blog)
-- 💬 I tweet at [@CarrotCodes](https://www.twitter.com/carrotcodes)
+- 💬 I tweet at [@CarrotCodes](https://www.twitter.com/carrotcodes) and hang out [on Discord](https://www.carrot.blog/discord)
 - 🏳️‍🌈 My pronouns are they/them
 
-You can **support my work** and get perks on [Patreon](https://www.patreon.com/carrotcodes) or [GitHub Sponsors](https://github.com/sponsors/CarrotCodes) 🧡
+You can **support my work**, get progress updates, and other perks, on [Patreon](https://www.patreon.com/carrotcodes) 🧡
 
 <!--
 **CarrotCodes/CarrotCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
