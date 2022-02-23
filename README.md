@@ -1,7 +1,7 @@
 **Hi there**, I'm Carrot 👋
 
-- 🚀 I make open-source projects, usually in Kotlin, to help people ship high quality software
-- 🥕 I write about software and streaming at [carrot.blog](https://www.carrot.blog)
+- 🚀 I build software for fun, and to help people ship high quality software
+- 🥕 I write about software, streaming, and life, at [carrot.blog](https://www.carrot.blog)
 - 📺 I stream [on Twitch](https://www.twitch.tv/carrot)
 - 💬 I tweet at [@CarrotCodes](https://www.twitter.com/carrotcodes) and hang out [on Discord](https://www.carrot.blog/discord)
 - 🏳️‍🌈 My pronouns are they/them
