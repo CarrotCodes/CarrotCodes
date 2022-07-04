@@ -1,12 +1,10 @@
 **Hi there**, I’m Carrot 👋.
 
-I love building software and sharing it with the world, through technical write-ups, and open-source 🥕.
-
 - 🥕 I write about the open-source software I build at [carrot.blog](https://www.carrot.blog)
 - 🏳️‍🌈 My pronouns are **they/them**
 - 🐰 You can find out more about me at [carrot.blog/about](https://www.carrot.blog/about/)
 
-Please support my work, and technical write-ups, [on Patreon](https://www.patreon.com/carrotcodes).
+Please **support my work**, and technical write-ups, [on Patreon](https://www.patreon.com/carrotcodes).
 
 <!--
 **CarrotCodes/CarrotCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
